@@ -46,7 +46,7 @@ To get started with this custom video player locally, follow these instructions:
 
 - **CSS:** CSS styles and layouts are applied to create an appealing and responsive user interface for the video player.
 
-- **JavaScript (JS):** JavaScript is used to add interactivity to the video player, including play/pause functionality, progress tracking, volume control, playback speed adjustment, and fullscreen toggling.
+- **JavaScript:** JavaScript is used to add interactivity to the video player, including play/pause functionality, progress tracking, volume control, playback speed adjustment, and fullscreen toggling.
 
 - **Font Awesome:** Icons for play, pause, volume, and fullscreen buttons are sourced from Font Awesome for a visually engaging user interface.
 
